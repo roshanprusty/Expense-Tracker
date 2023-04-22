@@ -3,7 +3,7 @@ import { Grid } from "@material-ui/core";
 import Details from "./components/Details/Details";
 import { SpeechState, useSpeechContext } from "@speechly/react-client";
 import Main from "./components/Main/Main";
-import rnp from "./assets/rnp.png";
+// import rnp from "./assets/rnp.png";
 import {
   PushToTalkButton,
   PushToTalkButtonContainer,
