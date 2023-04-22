@@ -1,0 +1,23 @@
+.App {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  
+}
+
+::-webkit-scrollbar {
+    display: none;
+    }
+.nav__avatar {
+  height: 40px;
+}
+
+.avatar {
+  margin-top: 10px;
+  margin-left: 1210px;
+  cursor: pointer;
+  transition: transform 450ms;
+}
+
+.avatar:hover {
+  transform: scale(1.25);
+}
